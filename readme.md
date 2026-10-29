@@ -11,3 +11,8 @@ sudo systemctl restart nombre-servicio
 
 ##Informacion del proyecto
 no se que poner aqui lol
+
+##Proximas mejoras
+1.Escribir mas
+2.Estudiar mas
+3.Investigar mas
