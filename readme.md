@@ -16,3 +16,9 @@ no se que poner aqui lol
 1.Escribir mas
 2.Estudiar mas
 3.Investigar mas
+
+## Recomendaciones de seguridad
+
+- Utilizar contraseñas robustas y distintas para cada servicio.
+- Mantener el sistema y las aplicaciones siempre actualizados.
+- Realizar copias de seguridad periódicas de la información importante.
