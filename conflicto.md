@@ -1,2 +1,2 @@
 # Prueba de conflictos
-Este documento explica como funciona Git.
+Este documento explica cómo Git registra y organiza las versiones de un proyecto.
